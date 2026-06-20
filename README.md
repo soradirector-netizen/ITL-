@@ -2,7 +2,7 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>ITパスポート 完全対策サイト</title>
+<title>基礎情報学　テスト対策</title>
 
 <style>
 body {
