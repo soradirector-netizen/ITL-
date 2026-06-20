@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
@@ -34,7 +35,7 @@ button {
 
 <body>
 
-<h1>ITパスポート 完全問題演習</h1>
+<h1>基礎情報学　テスト対策</h1>
 
 <button onclick="toggleRandom()">ランダムモード</button>
 <button onclick="checkAnswers()">採点</button>
